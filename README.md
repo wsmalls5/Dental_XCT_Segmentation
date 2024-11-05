@@ -1,2 +1,2 @@
 # Dental_XCT_Segmentation
-Repository of Dental X-Ray CT scans and the colab notebook segmentation workflow 
+Colab notebook segmentation workflow of X-Ray CT Images stored locally (too large to host here) 
